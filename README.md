@@ -55,8 +55,8 @@
        Filament refers to the material used as the raw feedstock for 3D printing. Filament is a long, thin thread-like material that is fed into the extruder and melted for deposition layer by layer to create the 3D printed object.
 ## Playing with axes:
 ![polar3D playing with axes](https://github.com/abinayasangeetha/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393675/badc67df-3758-45ef-8f1a-c5e44a8a91fe)
-### Name: ABINAYA S
-### Register Number: 212222230002
+### Name: VIKASH S
+### Register Number: 212222240115
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
